@@ -1,2 +1,18 @@
 ---
-# defaults file for homebrew-cask-packages
+homebrew_cask_packages_packages:
+  - calibre
+  - firefox
+  - google-chrome
+  - google-japanese-ime
+  - grandperspective
+  - hipchat
+  - iterm2
+  - java
+  - keepassx
+  - kindle
+  - mysqlworkbench
+  - skype
+  - spark
+  - vagrant
+  - virtualbox
+  - zeroxed
